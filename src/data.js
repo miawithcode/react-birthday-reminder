@@ -1,4 +1,4 @@
-export const people = [
+export const birthdayPeople = [
   {
     id: 1,
     name: 'Bertie Yates',
